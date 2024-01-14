@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    text-align: center;
+    margin: 10px 0;
+}
+hr{
+    margin: 10px 0 0 0;
+}
+/* Navbar */
+.navbar, .footer{
+    width: 100vw;
+    background-color: black;
+    text-align: center;
+    padding: 5px 0 10px 0;
+}
+.navbar > .head, .footer > .head{
+    color: white;
+    font-size: 24px;
+}
+.navbar a{
+    text-decoration: none;
+    color: tomato;
+    margin-right: 15px;
+    font-size: 14px;
+}
+/* About */
+.about img{
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+/* Footer */
+.footer{
+    background-color: #5a5a5a;
+    position: sticky;
+    bottom: 0;
+}
+.footer a{
+    color: tomato;
+    margin-right: 15px;
+}

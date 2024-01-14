@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Skills",
+        "content":"My expertise extends to the foundational building blocks of the web — HTML and CSS. Meticulous in creating well-structured and semantically meaningful HTML, I ensure a solid foundation for every web project. Combined with a flair for CSS, I bring designs to life, creating visually appealing and responsive user interfaces that captivate and engage. As a frontend enthusiast, I harness the power of JavaScript to breathe life into web applications. From dynamic user interactions to asynchronous operations, I navigate the intricacies of JavaScript to deliver seamless and interactive user experiences. My proficiency extends to modern frameworks and libraries that enhance development efficiency. I specialize in React.js, utilizing its component-based architecture to build scalable and modular frontend applications. Whether it's crafting reusable UI components, managing state effectively, or optimizing performance, I leverage React's power to create engaging and dynamic user interfaces. My commitment to staying current with React best practices ensures that my projects are not just functional but also future-proof. In every project, I bring a blend of technical prowess, creative problem-solving, and a passion for crafting exceptional digital experiences. From the server-side logic in Java to the frontend magic in React.js, I am dedicated to pushing the boundaries of what technology can achieve."
+    },
+    {
+        "title": "Qualification",
+        "content": "Embarking on a journey at Anna University, Trichy, I pursued a Bachelor's degree in Electronics and Communication Engineering. The comprehensive curriculum provided me with a solid foundation in the principles of electronics, communication systems, and signal processing. My academic journey at Anna University not only equipped me with a strong technical foundation but also instilled in me a passion for innovation and a commitment to excellence. It laid the groundwork for my professional endeavors, setting the stage for a dynamic career in technology."
+    },
+    {
+        "title": "Projects",
+        "content": "Collaborated on impactful projects, applying theoretical knowledge to real-world scenarios. These experiences enhanced my problem-solving abilities and honed my analytical thinking. Thrived in a collaborative environment, participating in group projects and activities that nurtured teamwork and effective communication. Stayed attuned to emerging technologies and industry trends, ensuring a forward-thinking approach to problem-solving and project development."
+    }
+]
